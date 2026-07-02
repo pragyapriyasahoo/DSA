@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/pragyapriyasahoo/DSA/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/pragyapriyasahoo/DSA/tree/master/0905-sort-array-by-parity) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/pragyapriyasahoo/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/pragyapriyasahoo/DSA/tree/master/0905-sort-array-by-parity) |
+## Backtracking
+|  |
+| ------- |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/pragyapriyasahoo/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/pragyapriyasahoo/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+## Enumeration
+|  |
+| ------- |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/pragyapriyasahoo/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 <!---LeetCode Topics End-->
