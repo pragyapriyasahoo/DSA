@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragyapriyasahoo/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/pragyapriyasahoo/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/pragyapriyasahoo/DSA/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/pragyapriyasahoo/DSA/tree/master/0496-next-greater-element-i) |
 | [0905-sort-array-by-parity](https://github.com/pragyapriyasahoo/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/pragyapriyasahoo/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/pragyapriyasahoo/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
@@ -62,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pragyapriyasahoo/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragyapriyasahoo/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/pragyapriyasahoo/DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pragyapriyasahoo/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragyapriyasahoo/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/pragyapriyasahoo/DSA/tree/master/0496-next-greater-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pragyapriyasahoo/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0496-next-greater-element-i](https://github.com/pragyapriyasahoo/DSA/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
