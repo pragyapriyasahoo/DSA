@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0905-sort-array-by-parity](https://github.com/pragyapriyasahoo/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/pragyapriyasahoo/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/pragyapriyasahoo/DSA/tree/master/1260-shift-2d-grid) |
+| [1480-running-sum-of-1d-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/pragyapriyasahoo/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 ## Two Pointers
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pragyapriyasahoo/DSA/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
