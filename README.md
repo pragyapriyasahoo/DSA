@@ -145,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/pragyapriyasahoo/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/pragyapriyasahoo/DSA/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
