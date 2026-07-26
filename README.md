@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/pragyapriyasahoo/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/pragyapriyasahoo/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/pragyapriyasahoo/DSA/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragyapriyasahoo/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/pragyapriyasahoo/DSA/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0162-find-peak-element) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/pragyapriyasahoo/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/pragyapriyasahoo/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/pragyapriyasahoo/DSA/tree/master/0088-merge-sorted-array) |
 | [0220-contains-duplicate-iii](https://github.com/pragyapriyasahoo/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0905-sort-array-by-parity](https://github.com/pragyapriyasahoo/DSA/tree/master/0905-sort-array-by-parity) |
