@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pragyapriyasahoo/DSA/tree/master/0200-number-of-islands) |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/pragyapriyasahoo/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -185,4 +186,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/pragyapriyasahoo/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+## Tree
+|  |
+| ------- |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/pragyapriyasahoo/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+## Binary Tree
+|  |
+| ------- |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/pragyapriyasahoo/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+## DP on Trees
+|  |
+| ------- |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/pragyapriyasahoo/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 <!---LeetCode Topics End-->
