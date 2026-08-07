@@ -1,15 +1,12 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int rows = grid.size();
-        int cols = grid[0].size();
-
+        int m = grid.size(), n = grid[0].size();
         queue<pair<int, int>> q;
         int fresh = 0;
-        int minutes = 0;
 
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
                 if (grid[i][j] == 2)
                     q.push({i, j});
                 else if (grid[i][j] == 1)
@@ -17,21 +14,24 @@ public:
             }
         }
 
-        vector<pair<int, int>> dir = {{1,0}, {-1,0}, {0,1}, {0,-1}};
+        if (fresh == 0) return 0;
+
+        int minutes = 0;
+        int dx[4] = {-1, 1, 0, 0};
+        int dy[4] = {0, 0, -1, 1};
 
         while (!q.empty() && fresh > 0) {
             int sz = q.size();
-            minutes++;
 
             while (sz--) {
                 auto [x, y] = q.front();
                 q.pop();
 
-                for (auto [dx, dy] : dir) {
-                    int nx = x + dx;
-                    int ny = y + dy;
+                for (int k = 0; k < 4; k++) {
+                    int nx = x + dx[k];
+                    int ny = y + dy[k];
 
-                    if (nx >= 0 && ny >= 0 && nx < rows && ny < cols &&
+                    if (nx >= 0 && nx < m && ny >= 0 && ny < n &&
                         grid[nx][ny] == 1) {
                         grid[nx][ny] = 2;
                         fresh--;
@@ -39,6 +39,7 @@ public:
                     }
                 }
             }
+            minutes++;
         }
 
         return fresh == 0 ? minutes : -1;
