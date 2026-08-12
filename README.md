@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/pragyapriyasahoo/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/pragyapriyasahoo/DSA/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/pragyapriyasahoo/DSA/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/pragyapriyasahoo/DSA/tree/master/0525-contiguous-array) |
 | [0622-design-circular-queue](https://github.com/pragyapriyasahoo/DSA/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/pragyapriyasahoo/DSA/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/pragyapriyasahoo/DSA/tree/master/0875-koko-eating-bananas) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pragyapriyasahoo/DSA/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/pragyapriyasahoo/DSA/tree/master/0525-contiguous-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/pragyapriyasahoo/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/pragyapriyasahoo/DSA/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/pragyapriyasahoo/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/pragyapriyasahoo/DSA/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/pragyapriyasahoo/DSA/tree/master/0525-contiguous-array) |
 | [3731-find-missing-elements](https://github.com/pragyapriyasahoo/DSA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
