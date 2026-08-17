@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/pragyapriyasahoo/DSA/tree/master/0584-find-customer-referee) |
+| [1729-find-followers-count](https://github.com/pragyapriyasahoo/DSA/tree/master/1729-find-followers-count) |
 | [1873-calculate-special-bonus](https://github.com/pragyapriyasahoo/DSA/tree/master/1873-calculate-special-bonus) |
 ## Heap (Priority Queue)
 |  |
