@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/pragyapriyasahoo/DSA/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/0310-minimum-height-trees) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/pragyapriyasahoo/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## Breadth-First Search
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/pragyapriyasahoo/DSA/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/0310-minimum-height-trees) |
 | [0994-rotting-oranges](https://github.com/pragyapriyasahoo/DSA/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -221,11 +223,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0226-invert-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/pragyapriyasahoo/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0226-invert-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/pragyapriyasahoo/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## DP on Trees
 |  |
