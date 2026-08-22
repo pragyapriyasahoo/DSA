@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/pragyapriyasahoo/DSA/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragyapriyasahoo/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/pragyapriyasahoo/DSA/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragyapriyasahoo/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0162-find-peak-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragyapriyasahoo/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/pragyapriyasahoo/DSA/tree/master/0200-number-of-islands) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/pragyapriyasahoo/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/pragyapriyasahoo/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/pragyapriyasahoo/DSA/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragyapriyasahoo/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0387-first-unique-character-in-a-string](https://github.com/pragyapriyasahoo/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/pragyapriyasahoo/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/pragyapriyasahoo/DSA/tree/master/0525-contiguous-array) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0100-same-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragyapriyasahoo/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0572-subtree-of-another-tree) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0100-same-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragyapriyasahoo/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0572-subtree-of-another-tree) |
@@ -271,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0572-subtree-of-another-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragyapriyasahoo/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
