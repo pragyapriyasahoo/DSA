@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0572-subtree-of-another-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0834-sum-of-distances-in-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0834-sum-of-distances-in-tree) |
+| [0938-range-sum-of-bst](https://github.com/pragyapriyasahoo/DSA/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/pragyapriyasahoo/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## Breadth-First Search
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0572-subtree-of-another-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0834-sum-of-distances-in-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0834-sum-of-distances-in-tree) |
+| [0938-range-sum-of-bst](https://github.com/pragyapriyasahoo/DSA/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/pragyapriyasahoo/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/0617-merge-two-binary-trees) |
+| [0938-range-sum-of-bst](https://github.com/pragyapriyasahoo/DSA/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/pragyapriyasahoo/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## DP on Trees
@@ -310,5 +313,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/pragyapriyasahoo/DSA/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
