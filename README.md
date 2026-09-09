@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0556-next-greater-element-iii](https://github.com/pragyapriyasahoo/DSA/tree/master/0556-next-greater-element-iii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/pragyapriyasahoo/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [3870-count-commas-in-range](https://github.com/pragyapriyasahoo/DSA/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Simulation
 |  |
 | ------- |
