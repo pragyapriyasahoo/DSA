@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/pragyapriyasahoo/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/pragyapriyasahoo/DSA/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/pragyapriyasahoo/DSA/tree/master/0127-word-ladder) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/pragyapriyasahoo/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/pragyapriyasahoo/DSA/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/pragyapriyasahoo/DSA/tree/master/0556-next-greater-element-iii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0146-lru-cache](https://github.com/pragyapriyasahoo/DSA/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/pragyapriyasahoo/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0622-design-circular-queue](https://github.com/pragyapriyasahoo/DSA/tree/master/0622-design-circular-queue) |
 | [1352-product-of-the-last-k-numbers](https://github.com/pragyapriyasahoo/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/pragyapriyasahoo/DSA/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/0310-minimum-height-trees) |
 | [0572-subtree-of-another-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/0617-merge-two-binary-trees) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/pragyapriyasahoo/DSA/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/0310-minimum-height-trees) |
 | [0617-merge-two-binary-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0994-rotting-oranges](https://github.com/pragyapriyasahoo/DSA/tree/master/0994-rotting-oranges) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0834-sum-of-distances-in-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0834-sum-of-distances-in-tree) |
@@ -302,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/pragyapriyasahoo/DSA/tree/master/0938-range-sum-of-bst) |
