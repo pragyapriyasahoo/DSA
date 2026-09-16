@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pragyapriyasahoo/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/pragyapriyasahoo/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/pragyapriyasahoo/DSA/tree/master/0146-lru-cache) |
 | [0622-design-circular-queue](https://github.com/pragyapriyasahoo/DSA/tree/master/0622-design-circular-queue) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pragyapriyasahoo/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/pragyapriyasahoo/DSA/tree/master/0295-find-median-from-data-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Depth-First Search
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pragyapriyasahoo/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragyapriyasahoo/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -341,4 +344,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pragyapriyasahoo/DSA/tree/master/0146-lru-cache) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pragyapriyasahoo/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pragyapriyasahoo/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
