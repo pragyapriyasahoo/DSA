@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/pragyapriyasahoo/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragyapriyasahoo/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/pragyapriyasahoo/DSA/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/pragyapriyasahoo/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0556-next-greater-element-iii](https://github.com/pragyapriyasahoo/DSA/tree/master/0556-next-greater-element-iii) |
 | [0905-sort-array-by-parity](https://github.com/pragyapriyasahoo/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/pragyapriyasahoo/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/pragyapriyasahoo/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/pragyapriyasahoo/DSA/tree/master/0088-merge-sorted-array) |
 | [0220-contains-duplicate-iii](https://github.com/pragyapriyasahoo/DSA/tree/master/0220-contains-duplicate-iii) |
+| [0295-find-median-from-data-stream](https://github.com/pragyapriyasahoo/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0905-sort-array-by-parity](https://github.com/pragyapriyasahoo/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/pragyapriyasahoo/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pragyapriyasahoo/DSA/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/pragyapriyasahoo/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0622-design-circular-queue](https://github.com/pragyapriyasahoo/DSA/tree/master/0622-design-circular-queue) |
 | [1352-product-of-the-last-k-numbers](https://github.com/pragyapriyasahoo/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/pragyapriyasahoo/DSA/tree/master/0295-find-median-from-data-stream) |
 | [1352-product-of-the-last-k-numbers](https://github.com/pragyapriyasahoo/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Database
 |  |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/pragyapriyasahoo/DSA/tree/master/0295-find-median-from-data-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Depth-First Search
 |  |
