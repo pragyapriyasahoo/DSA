@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragyapriyasahoo/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/pragyapriyasahoo/DSA/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/pragyapriyasahoo/DSA/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/pragyapriyasahoo/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/pragyapriyasahoo/DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/pragyapriyasahoo/DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0169-majority-element) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pragyapriyasahoo/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pragyapriyasahoo/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pragyapriyasahoo/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/pragyapriyasahoo/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/pragyapriyasahoo/DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/pragyapriyasahoo/DSA/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/pragyapriyasahoo/DSA/tree/master/0203-remove-linked-list-elements) |
