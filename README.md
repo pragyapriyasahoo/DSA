@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/pragyapriyasahoo/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/pragyapriyasahoo/DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/pragyapriyasahoo/DSA/tree/master/0146-lru-cache) |
+| [0203-remove-linked-list-elements](https://github.com/pragyapriyasahoo/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pragyapriyasahoo/DSA/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/pragyapriyasahoo/DSA/tree/master/0622-design-circular-queue) |
 ## Design
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0010-regular-expression-matching](https://github.com/pragyapriyasahoo/DSA/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/pragyapriyasahoo/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/pragyapriyasahoo/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0203-remove-linked-list-elements](https://github.com/pragyapriyasahoo/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pragyapriyasahoo/DSA/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
