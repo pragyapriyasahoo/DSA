@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pragyapriyasahoo/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/pragyapriyasahoo/DSA/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/pragyapriyasahoo/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/pragyapriyasahoo/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/pragyapriyasahoo/DSA/tree/master/0049-group-anagrams) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/pragyapriyasahoo/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0090-subsets-ii) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/pragyapriyasahoo/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
