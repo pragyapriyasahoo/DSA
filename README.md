@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0922-sort-array-by-parity-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/pragyapriyasahoo/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/pragyapriyasahoo/DSA/tree/master/0994-rotting-oranges) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/pragyapriyasahoo/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1260-shift-2d-grid](https://github.com/pragyapriyasahoo/DSA/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pragyapriyasahoo/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/pragyapriyasahoo/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/pragyapriyasahoo/DSA/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/pragyapriyasahoo/DSA/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/pragyapriyasahoo/DSA/tree/master/0556-next-greater-element-iii) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/pragyapriyasahoo/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pragyapriyasahoo/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1352-product-of-the-last-k-numbers](https://github.com/pragyapriyasahoo/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -533,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/pragyapriyasahoo/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->
