@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/pragyapriyasahoo/DSA/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/pragyapriyasahoo/DSA/tree/master/0556-next-greater-element-iii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/pragyapriyasahoo/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pragyapriyasahoo/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pragyapriyasahoo/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1352-product-of-the-last-k-numbers](https://github.com/pragyapriyasahoo/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1486-xor-operation-in-an-array) |
