@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/pragyapriyasahoo/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/pragyapriyasahoo/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pragyapriyasahoo/DSA/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/pragyapriyasahoo/DSA/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/pragyapriyasahoo/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/pragyapriyasahoo/DSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/pragyapriyasahoo/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/pragyapriyasahoo/DSA/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/pragyapriyasahoo/DSA/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/pragyapriyasahoo/DSA/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/pragyapriyasahoo/DSA/tree/master/0387-first-unique-character-in-a-string) |
