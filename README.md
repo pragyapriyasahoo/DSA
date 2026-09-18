@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/pragyapriyasahoo/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pragyapriyasahoo/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/pragyapriyasahoo/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/pragyapriyasahoo/DSA/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/pragyapriyasahoo/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/pragyapriyasahoo/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/pragyapriyasahoo/DSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/pragyapriyasahoo/DSA/tree/master/0231-power-of-two) |
@@ -594,4 +596,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/pragyapriyasahoo/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/pragyapriyasahoo/DSA/tree/master/0055-jump-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/pragyapriyasahoo/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/pragyapriyasahoo/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
