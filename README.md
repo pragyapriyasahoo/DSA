@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/pragyapriyasahoo/DSA/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pragyapriyasahoo/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/pragyapriyasahoo/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1313-decompress-run-length-encoded-list](https://github.com/pragyapriyasahoo/DSA/tree/master/1313-decompress-run-length-encoded-list) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/pragyapriyasahoo/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragyapriyasahoo/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
