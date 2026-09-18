@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1470-shuffle-the-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1470-shuffle-the-array) |
 | [1476-subrectangle-queries](https://github.com/pragyapriyasahoo/DSA/tree/master/1476-subrectangle-queries) |
 | [1480-running-sum-of-1d-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pragyapriyasahoo/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1528-shuffle-string](https://github.com/pragyapriyasahoo/DSA/tree/master/1528-shuffle-string) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/pragyapriyasahoo/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pragyapriyasahoo/DSA/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragyapriyasahoo/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pragyapriyasahoo/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3265-count-almost-equal-pairs-i](https://github.com/pragyapriyasahoo/DSA/tree/master/3265-count-almost-equal-pairs-i) |
 | [3731-find-missing-elements](https://github.com/pragyapriyasahoo/DSA/tree/master/3731-find-missing-elements) |
 ## Backtracking
