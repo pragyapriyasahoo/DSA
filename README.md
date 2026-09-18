@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pragyapriyasahoo/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pragyapriyasahoo/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragyapriyasahoo/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/pragyapriyasahoo/DSA/tree/master/0496-next-greater-element-i) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/pragyapriyasahoo/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/pragyapriyasahoo/DSA/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/pragyapriyasahoo/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/pragyapriyasahoo/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pragyapriyasahoo/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/pragyapriyasahoo/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/pragyapriyasahoo/DSA/tree/master/0058-length-of-last-word) |
@@ -475,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pragyapriyasahoo/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pragyapriyasahoo/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
