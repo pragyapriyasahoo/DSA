@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/pragyapriyasahoo/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/pragyapriyasahoo/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pragyapriyasahoo/DSA/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/pragyapriyasahoo/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pragyapriyasahoo/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragyapriyasahoo/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/pragyapriyasahoo/DSA/tree/master/0088-merge-sorted-array) |
@@ -132,12 +133,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0039-combination-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/pragyapriyasahoo/DSA/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/pragyapriyasahoo/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pragyapriyasahoo/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0090-subsets-ii) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/pragyapriyasahoo/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pragyapriyasahoo/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/pragyapriyasahoo/DSA/tree/master/0190-reverse-bits) |
