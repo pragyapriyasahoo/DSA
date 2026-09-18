@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/pragyapriyasahoo/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragyapriyasahoo/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pragyapriyasahoo/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/pragyapriyasahoo/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/pragyapriyasahoo/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/pragyapriyasahoo/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/pragyapriyasahoo/DSA/tree/master/0844-backspace-string-compare) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pragyapriyasahoo/DSA/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/pragyapriyasahoo/DSA/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/pragyapriyasahoo/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0622-design-circular-queue](https://github.com/pragyapriyasahoo/DSA/tree/master/0622-design-circular-queue) |
