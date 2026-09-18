@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragyapriyasahoo/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/pragyapriyasahoo/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragyapriyasahoo/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/pragyapriyasahoo/DSA/tree/master/0200-number-of-islands) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0010-regular-expression-matching](https://github.com/pragyapriyasahoo/DSA/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/pragyapriyasahoo/DSA/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/pragyapriyasahoo/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0834-sum-of-distances-in-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
