@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0090-subsets-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0287-find-the-duplicate-number) |
+| [1486-xor-operation-in-an-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/pragyapriyasahoo/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 ## Enumeration
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/pragyapriyasahoo/DSA/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/pragyapriyasahoo/DSA/tree/master/0556-next-greater-element-iii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/pragyapriyasahoo/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+| [1486-xor-operation-in-an-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/pragyapriyasahoo/DSA/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/pragyapriyasahoo/DSA/tree/master/2469-convert-the-temperature) |
 | [3870-count-commas-in-range](https://github.com/pragyapriyasahoo/DSA/tree/master/3870-count-commas-in-range) |
