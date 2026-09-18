@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragyapriyasahoo/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/pragyapriyasahoo/DSA/tree/master/0200-number-of-islands) |
 | [0220-contains-duplicate-iii](https://github.com/pragyapriyasahoo/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/pragyapriyasahoo/DSA/tree/master/0238-product-of-array-except-self) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/pragyapriyasahoo/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pragyapriyasahoo/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/pragyapriyasahoo/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0169-majority-element) |
 | [0220-contains-duplicate-iii](https://github.com/pragyapriyasahoo/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/pragyapriyasahoo/DSA/tree/master/0295-find-median-from-data-stream) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/pragyapriyasahoo/DSA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/pragyapriyasahoo/DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/pragyapriyasahoo/DSA/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/pragyapriyasahoo/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/pragyapriyasahoo/DSA/tree/master/0496-next-greater-element-i) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/pragyapriyasahoo/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3265-count-almost-equal-pairs-i](https://github.com/pragyapriyasahoo/DSA/tree/master/3265-count-almost-equal-pairs-i) |
 ## Graph Theory
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pragyapriyasahoo/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragyapriyasahoo/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -508,4 +513,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pragyapriyasahoo/DSA/tree/master/0020-valid-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
