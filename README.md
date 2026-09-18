@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0622-design-circular-queue](https://github.com/pragyapriyasahoo/DSA/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/pragyapriyasahoo/DSA/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/pragyapriyasahoo/DSA/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/pragyapriyasahoo/DSA/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/pragyapriyasahoo/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/pragyapriyasahoo/DSA/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/pragyapriyasahoo/DSA/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/pragyapriyasahoo/DSA/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/pragyapriyasahoo/DSA/tree/master/1260-shift-2d-grid) |
 ## Matrix
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/pragyapriyasahoo/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/pragyapriyasahoo/DSA/tree/master/0200-number-of-islands) |
 | [0832-flipping-an-image](https://github.com/pragyapriyasahoo/DSA/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/pragyapriyasahoo/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/pragyapriyasahoo/DSA/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
