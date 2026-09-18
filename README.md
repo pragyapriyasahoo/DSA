@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/pragyapriyasahoo/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/pragyapriyasahoo/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0494-target-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/pragyapriyasahoo/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/pragyapriyasahoo/DSA/tree/master/0525-contiguous-array) |
 | [0566-reshape-the-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/0566-reshape-the-matrix) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/pragyapriyasahoo/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pragyapriyasahoo/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0494-target-sum) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/pragyapriyasahoo/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 ## Bit Manipulation
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0119-pascals-triangle-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/pragyapriyasahoo/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0494-target-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0494-target-sum) |
 | [0834-sum-of-distances-in-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pragyapriyasahoo/DSA/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -660,4 +663,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pragyapriyasahoo/DSA/tree/master/0347-top-k-frequent-elements) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
