@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1476-subrectangle-queries](https://github.com/pragyapriyasahoo/DSA/tree/master/1476-subrectangle-queries) |
 | [1480-running-sum-of-1d-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pragyapriyasahoo/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1512-number-of-good-pairs](https://github.com/pragyapriyasahoo/DSA/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/pragyapriyasahoo/DSA/tree/master/1528-shuffle-string) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/pragyapriyasahoo/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pragyapriyasahoo/DSA/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/pragyapriyasahoo/DSA/tree/master/0525-contiguous-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragyapriyasahoo/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/pragyapriyasahoo/DSA/tree/master/1436-destination-city) |
+| [1512-number-of-good-pairs](https://github.com/pragyapriyasahoo/DSA/tree/master/1512-number-of-good-pairs) |
 | [3265-count-almost-equal-pairs-i](https://github.com/pragyapriyasahoo/DSA/tree/master/3265-count-almost-equal-pairs-i) |
 | [3731-find-missing-elements](https://github.com/pragyapriyasahoo/DSA/tree/master/3731-find-missing-elements) |
 ## String
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pragyapriyasahoo/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1352-product-of-the-last-k-numbers](https://github.com/pragyapriyasahoo/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/pragyapriyasahoo/DSA/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/pragyapriyasahoo/DSA/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/pragyapriyasahoo/DSA/tree/master/2469-convert-the-temperature) |
 | [3870-count-commas-in-range](https://github.com/pragyapriyasahoo/DSA/tree/master/3870-count-commas-in-range) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/pragyapriyasahoo/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/pragyapriyasahoo/DSA/tree/master/1512-number-of-good-pairs) |
 | [3265-count-almost-equal-pairs-i](https://github.com/pragyapriyasahoo/DSA/tree/master/3265-count-almost-equal-pairs-i) |
 ## Graph Theory
 |  |
