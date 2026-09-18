@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1352-product-of-the-last-k-numbers](https://github.com/pragyapriyasahoo/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragyapriyasahoo/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1408-string-matching-in-an-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pragyapriyasahoo/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1470-shuffle-the-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0556-next-greater-element-iii](https://github.com/pragyapriyasahoo/DSA/tree/master/0556-next-greater-element-iii) |
 | [0844-backspace-string-compare](https://github.com/pragyapriyasahoo/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pragyapriyasahoo/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1408-string-matching-in-an-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/pragyapriyasahoo/DSA/tree/master/1528-shuffle-string) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pragyapriyasahoo/DSA/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Sliding Window
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pragyapriyasahoo/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0572-subtree-of-another-tree) |
+| [1408-string-matching-in-an-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1408-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
