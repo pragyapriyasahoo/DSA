@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/pragyapriyasahoo/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/pragyapriyasahoo/DSA/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/pragyapriyasahoo/DSA/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/pragyapriyasahoo/DSA/tree/master/0556-next-greater-element-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pragyapriyasahoo/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0203-remove-linked-list-elements](https://github.com/pragyapriyasahoo/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pragyapriyasahoo/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/pragyapriyasahoo/DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/pragyapriyasahoo/DSA/tree/master/0326-power-of-three) |
 ## Tree
 |  |
 | ------- |
