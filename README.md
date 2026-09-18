@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/pragyapriyasahoo/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pragyapriyasahoo/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pragyapriyasahoo/DSA/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1720-decode-xored-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1720-decode-xored-array) |
 | [3265-count-almost-equal-pairs-i](https://github.com/pragyapriyasahoo/DSA/tree/master/3265-count-almost-equal-pairs-i) |
 | [3731-find-missing-elements](https://github.com/pragyapriyasahoo/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0832-flipping-an-image](https://github.com/pragyapriyasahoo/DSA/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/pragyapriyasahoo/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [1720-decode-xored-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1720-decode-xored-array) |
 ## Enumeration
 |  |
 | ------- |
