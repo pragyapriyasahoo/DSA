@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pragyapriyasahoo/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/pragyapriyasahoo/DSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragyapriyasahoo/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/pragyapriyasahoo/DSA/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/pragyapriyasahoo/DSA/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/pragyapriyasahoo/DSA/tree/master/0556-next-greater-element-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pragyapriyasahoo/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -447,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragyapriyasahoo/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/pragyapriyasahoo/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
