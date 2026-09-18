@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0090-subsets-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/pragyapriyasahoo/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/pragyapriyasahoo/DSA/tree/master/0832-flipping-an-image) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0069-sqrtx](https://github.com/pragyapriyasahoo/DSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/pragyapriyasahoo/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/pragyapriyasahoo/DSA/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/pragyapriyasahoo/DSA/tree/master/0556-next-greater-element-iii) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/pragyapriyasahoo/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/pragyapriyasahoo/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pragyapriyasahoo/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/pragyapriyasahoo/DSA/tree/master/0231-power-of-two) |
 ## Tree
 |  |
 | ------- |
