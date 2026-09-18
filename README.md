@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1512-number-of-good-pairs](https://github.com/pragyapriyasahoo/DSA/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/pragyapriyasahoo/DSA/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/pragyapriyasahoo/DSA/tree/master/1534-count-good-triplets) |
+| [1572-matrix-diagonal-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/pragyapriyasahoo/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pragyapriyasahoo/DSA/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [3265-count-almost-equal-pairs-i](https://github.com/pragyapriyasahoo/DSA/tree/master/3265-count-almost-equal-pairs-i) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1476-subrectangle-queries](https://github.com/pragyapriyasahoo/DSA/tree/master/1476-subrectangle-queries) |
+| [1572-matrix-diagonal-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Bucket Sort
 |  |
 | ------- |
