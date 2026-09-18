@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/pragyapriyasahoo/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/pragyapriyasahoo/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/pragyapriyasahoo/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/pragyapriyasahoo/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/pragyapriyasahoo/DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/pragyapriyasahoo/DSA/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/pragyapriyasahoo/DSA/tree/master/0203-remove-linked-list-elements) |
