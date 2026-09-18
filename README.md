@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/pragyapriyasahoo/DSA/tree/master/0200-number-of-islands) |
 | [0220-contains-duplicate-iii](https://github.com/pragyapriyasahoo/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/pragyapriyasahoo/DSA/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pragyapriyasahoo/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/pragyapriyasahoo/DSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragyapriyasahoo/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/pragyapriyasahoo/DSA/tree/master/0875-koko-eating-bananas) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/pragyapriyasahoo/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/pragyapriyasahoo/DSA/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/pragyapriyasahoo/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/0867-transpose-matrix) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/pragyapriyasahoo/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/pragyapriyasahoo/DSA/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
