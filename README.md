@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pragyapriyasahoo/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/pragyapriyasahoo/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1313-decompress-run-length-encoded-list](https://github.com/pragyapriyasahoo/DSA/tree/master/1313-decompress-run-length-encoded-list) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/pragyapriyasahoo/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragyapriyasahoo/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0922-sort-array-by-parity-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/pragyapriyasahoo/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragyapriyasahoo/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3265-count-almost-equal-pairs-i](https://github.com/pragyapriyasahoo/DSA/tree/master/3265-count-almost-equal-pairs-i) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/pragyapriyasahoo/DSA/tree/master/0875-koko-eating-bananas) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Dynamic Programming
 |  |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0867-transpose-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/pragyapriyasahoo/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/pragyapriyasahoo/DSA/tree/master/1260-shift-2d-grid) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-subrectangle-queries](https://github.com/pragyapriyasahoo/DSA/tree/master/1476-subrectangle-queries) |
 ## Bucket Sort
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pragyapriyasahoo/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/pragyapriyasahoo/DSA/tree/master/0295-find-median-from-data-stream) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Depth-First Search
 |  |
