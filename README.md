@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1352-product-of-the-last-k-numbers](https://github.com/pragyapriyasahoo/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/pragyapriyasahoo/DSA/tree/master/1512-number-of-good-pairs) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/pragyapriyasahoo/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/pragyapriyasahoo/DSA/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/pragyapriyasahoo/DSA/tree/master/2469-convert-the-temperature) |
 | [3870-count-commas-in-range](https://github.com/pragyapriyasahoo/DSA/tree/master/3870-count-commas-in-range) |
