@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/pragyapriyasahoo/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0136-single-number) |
+| [0140-word-break-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0140-word-break-ii) |
 | [0162-find-peak-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragyapriyasahoo/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0169-majority-element) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/pragyapriyasahoo/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pragyapriyasahoo/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0090-subsets-ii) |
+| [0140-word-break-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0494-target-sum) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/pragyapriyasahoo/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 ## Bit Manipulation
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/pragyapriyasahoo/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0140-word-break-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0140-word-break-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/pragyapriyasahoo/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/pragyapriyasahoo/DSA/tree/master/0647-palindromic-substrings) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/pragyapriyasahoo/DSA/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/pragyapriyasahoo/DSA/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/pragyapriyasahoo/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0140-word-break-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/pragyapriyasahoo/DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/pragyapriyasahoo/DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0169-majority-element) |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/pragyapriyasahoo/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/pragyapriyasahoo/DSA/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/pragyapriyasahoo/DSA/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/pragyapriyasahoo/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -623,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pragyapriyasahoo/DSA/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0208-implement-trie-prefix-tree) |
 ## Z Algorithm
 |  |
@@ -658,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pragyapriyasahoo/DSA/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0140-word-break-ii) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
