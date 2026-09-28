@@ -11,7 +11,7 @@ public:
     }
 
     int makeConnected(int n, vector<vector<int>>& connections) {
-        // Need at least n - 1 cables
+        
         if (connections.size() < n - 1)
             return -1;
 
