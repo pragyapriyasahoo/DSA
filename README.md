@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0834-sum-of-distances-in-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0938-range-sum-of-bst](https://github.com/pragyapriyasahoo/DSA/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/pragyapriyasahoo/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/pragyapriyasahoo/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## Breadth-First Search
@@ -462,11 +463,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/pragyapriyasahoo/DSA/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0994-rotting-oranges](https://github.com/pragyapriyasahoo/DSA/tree/master/0994-rotting-oranges) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/pragyapriyasahoo/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pragyapriyasahoo/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pragyapriyasahoo/DSA/tree/master/0547-number-of-provinces) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/pragyapriyasahoo/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Recursion
 |  |
 | ------- |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0310-minimum-height-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/pragyapriyasahoo/DSA/tree/master/0547-number-of-provinces) |
 | [0834-sum-of-distances-in-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0834-sum-of-distances-in-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/pragyapriyasahoo/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
 | ------- |
