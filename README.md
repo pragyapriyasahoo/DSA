@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0922-sort-array-by-parity-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/pragyapriyasahoo/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/pragyapriyasahoo/DSA/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/pragyapriyasahoo/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1260-shift-2d-grid](https://github.com/pragyapriyasahoo/DSA/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pragyapriyasahoo/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0832-flipping-an-image](https://github.com/pragyapriyasahoo/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/pragyapriyasahoo/DSA/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/pragyapriyasahoo/DSA/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/pragyapriyasahoo/DSA/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0994-rotting-oranges](https://github.com/pragyapriyasahoo/DSA/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pragyapriyasahoo/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Union-Find
 |  |
