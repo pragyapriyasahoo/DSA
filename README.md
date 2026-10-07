@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pragyapriyasahoo/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pragyapriyasahoo/DSA/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1720-decode-xored-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1720-decode-xored-array) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/pragyapriyasahoo/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3265-count-almost-equal-pairs-i](https://github.com/pragyapriyasahoo/DSA/tree/master/3265-count-almost-equal-pairs-i) |
 | [3731-find-missing-elements](https://github.com/pragyapriyasahoo/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1380-lucky-numbers-in-a-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1476-subrectangle-queries](https://github.com/pragyapriyasahoo/DSA/tree/master/1476-subrectangle-queries) |
 | [1572-matrix-diagonal-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/1572-matrix-diagonal-sum) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/pragyapriyasahoo/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/pragyapriyasahoo/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pragyapriyasahoo/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/pragyapriyasahoo/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Union-Find
 |  |
 | ------- |
