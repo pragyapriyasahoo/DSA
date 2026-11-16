@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/pragyapriyasahoo/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragyapriyasahoo/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/pragyapriyasahoo/DSA/tree/master/1436-destination-city) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1512-number-of-good-pairs](https://github.com/pragyapriyasahoo/DSA/tree/master/1512-number-of-good-pairs) |
 | [3265-count-almost-equal-pairs-i](https://github.com/pragyapriyasahoo/DSA/tree/master/3265-count-almost-equal-pairs-i) |
 | [3731-find-missing-elements](https://github.com/pragyapriyasahoo/DSA/tree/master/3731-find-missing-elements) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pragyapriyasahoo/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/pragyapriyasahoo/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## Breadth-First Search
 |  |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/pragyapriyasahoo/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pragyapriyasahoo/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/pragyapriyasahoo/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Union-Find
 |  |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0938-range-sum-of-bst](https://github.com/pragyapriyasahoo/DSA/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/pragyapriyasahoo/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
 |  |
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0834-sum-of-distances-in-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/pragyapriyasahoo/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## Counting
 |  |
