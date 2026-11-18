@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0622-design-circular-queue](https://github.com/pragyapriyasahoo/DSA/tree/master/0622-design-circular-queue) |
 | [1352-product-of-the-last-k-numbers](https://github.com/pragyapriyasahoo/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1476-subrectangle-queries](https://github.com/pragyapriyasahoo/DSA/tree/master/1476-subrectangle-queries) |
+| [1845-seat-reservation-manager](https://github.com/pragyapriyasahoo/DSA/tree/master/1845-seat-reservation-manager) |
 ## Queue
 |  |
 | ------- |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/pragyapriyasahoo/DSA/tree/master/1514-path-with-maximum-probability) |
+| [1845-seat-reservation-manager](https://github.com/pragyapriyasahoo/DSA/tree/master/1845-seat-reservation-manager) |
 ## Depth-First Search
 |  |
 | ------- |
