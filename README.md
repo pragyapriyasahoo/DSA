@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/pragyapriyasahoo/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/pragyapriyasahoo/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pragyapriyasahoo/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/pragyapriyasahoo/DSA/tree/master/0743-network-delay-time) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyapriyasahoo/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Depth-First Search
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/pragyapriyasahoo/DSA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/0617-merge-two-binary-trees) |
+| [0743-network-delay-time](https://github.com/pragyapriyasahoo/DSA/tree/master/0743-network-delay-time) |
 | [0834-sum-of-distances-in-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/pragyapriyasahoo/DSA/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/pragyapriyasahoo/DSA/tree/master/0938-range-sum-of-bst) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0310-minimum-height-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/pragyapriyasahoo/DSA/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/0617-merge-two-binary-trees) |
+| [0743-network-delay-time](https://github.com/pragyapriyasahoo/DSA/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/pragyapriyasahoo/DSA/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/pragyapriyasahoo/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/pragyapriyasahoo/DSA/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/pragyapriyasahoo/DSA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/pragyapriyasahoo/DSA/tree/master/0743-network-delay-time) |
 | [0834-sum-of-distances-in-tree](https://github.com/pragyapriyasahoo/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/pragyapriyasahoo/DSA/tree/master/0841-keys-and-rooms) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pragyapriyasahoo/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -734,4 +738,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pragyapriyasahoo/DSA/tree/master/0075-sort-colors) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/pragyapriyasahoo/DSA/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/pragyapriyasahoo/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
