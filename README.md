@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/pragyapriyasahoo/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/pragyapriyasahoo/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/pragyapriyasahoo/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/pragyapriyasahoo/DSA/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0140-word-break-ii) |
 | [0162-find-peak-element](https://github.com/pragyapriyasahoo/DSA/tree/master/0162-find-peak-element) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/pragyapriyasahoo/DSA/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/pragyapriyasahoo/DSA/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/pragyapriyasahoo/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pragyapriyasahoo/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pragyapriyasahoo/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0419-battleships-in-a-board](https://github.com/pragyapriyasahoo/DSA/tree/master/0419-battleships-in-a-board) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pragyapriyasahoo/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pragyapriyasahoo/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/pragyapriyasahoo/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/pragyapriyasahoo/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/pragyapriyasahoo/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/pragyapriyasahoo/DSA/tree/master/0207-course-schedule) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/pragyapriyasahoo/DSA/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pragyapriyasahoo/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0127-word-ladder](https://github.com/pragyapriyasahoo/DSA/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/pragyapriyasahoo/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/pragyapriyasahoo/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/pragyapriyasahoo/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/pragyapriyasahoo/DSA/tree/master/0207-course-schedule) |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pragyapriyasahoo/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/pragyapriyasahoo/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pragyapriyasahoo/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pragyapriyasahoo/DSA/tree/master/0547-number-of-provinces) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pragyapriyasahoo/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
